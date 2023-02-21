@@ -1,0 +1,48 @@
+// 1
+
+// let select = document.querySelector('#select');
+// func()
+// function func(){
+//     for(let option of select){
+//         if(option.selected == true){
+//             option.textContent = option.textContent + "!"
+//         }
+//         else{
+//             option.textContent = option.textContent + "?"
+//         }
+//     }
+// }
+
+
+
+
+// 2
+
+// let select = document.querySelector('#select');
+// let button = document.querySelector('#btn');
+// button.addEventListener('click',func)
+// function func(){
+// select = select[2];
+// select.selected = true;
+// }
+
+// 3
+
+// let select = document.querySelector('#select');
+// let button = document.querySelector('#btn');
+// button.addEventListener('click',func)
+// function func(){
+//     console.log(select[select.selectedIndex]);
+// }
+
+
+//4
+
+// let select = document.querySelector('#select');
+// let button = document.querySelector('#btn');
+// button.addEventListener('click',func)
+// function func(){
+//     option = select[2];
+//     option.selected = true;
+//     option.text += "!"
+// }
